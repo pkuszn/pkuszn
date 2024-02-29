@@ -40,6 +40,16 @@
 <img alt="UBUNTU" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p> 
 
+# Contact
+
+<p align="center">
+<a href="https://www.linkedin.com/in/patryk-kuszneruk-521b7a1bb/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:pkuszneruk.praca@gmail.com?subject=Hi!👋">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
 <!--
 **pkuszn/pkuszn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
