@@ -4,7 +4,7 @@
 
 💬 My name is Patryk, and I'm a first-year master's student of Applied Computer Science at Jagiellonian University in Krakow, Poland. Previously, I obtained an engineering diploma at the University of Silesia in Katowice. Currently, I work as a Junior Software Developer at AIUT in Gliwice, where I mainly deal with programming in C# and Python. I consider myself a highly engaged person, always curious to learn new technologies. I'm currently specializing in backend technologies but I'm also open to other areas. Apart from that, I enjoy playing classical guitar and indulging in activities such as riding bicycles or motorcycles.
 
-🔭 I’m currently working on ... feynman technique apps but the project is suspended due to lack of time.
+🔭 I’m currently working on ... feynman technique apps but the project was suspended due to lack of time.
 
 🌱 I'm currently learning the Python language, and I'm enhancing my skills as a .NET Developer with a focus on building APIs in ASP.NET Core.
 
